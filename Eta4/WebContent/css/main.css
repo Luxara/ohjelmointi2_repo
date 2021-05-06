@@ -41,6 +41,13 @@ text-align:center;}
 	cursor: pointer;
 }
 
+.muuta {
+	color: blue;
+	text-decoration:underline;
+	font-weight: bold;
+	cursor: pointer;
+}
+
 .poista {
 	color: red;
 	text-decoration:underline;
